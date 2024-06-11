@@ -1,0 +1,7 @@
+0000000,06-26-11,4000001,40.33,Excercise and fittness,Cardio, Clark,Tenesse,Credit
+0000001,05-05-11,4000002,198.44,Excercise and fittness,weightlifting,long Beach,California,Credit
+0000002,06-17-11,4000002,5.58,Excercise and fittness,Weightlifting gloves,Anaherim,California,Credit
+0000003,06-14-11,4000003,198.19,Gymnastic,Gymnastics rings,Milwauke,Wisconsin,Credit
+0000004,06-26-11,4000002,98.81,Team Sports,Field Hocky,Nashville,Tenesse,Credit
+0000005,02-14-11,4000004,98.81,Outdoor Recreation,Campaign,backpacing and hicking,Chicago,Illinols,Credit
+0000006,06-26-11,4000004,98.81,Puzzels,Jigsaw Puzzels,Charleston,South Carolina,Credit

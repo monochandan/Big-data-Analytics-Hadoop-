@@ -1,0 +1,49 @@
+ 	8936
+  	3334
+   	2462
+ a	2286
+ and	5334
+ however	1107
+ however 	1062
+ in	4403
+ in this	2052
+ in this paper	1464
+ it	1187
+ our	1720
+ the	6879
+ this	2061
+ to	1387
+ we	9302
+ we propose	1171
+ which	1549
+and the	1673
+as a	1106
+based on	2325
+can be	1816
+for the	1156
+from the	1081
+however 	1072
+in a	1471
+in the	3430
+in this	2791
+in this paper	1856
+in this paper 	1279
+information retrieval	2202
+is a	1000
+number of	1000
+of a	1753
+of the	6401
+on the	2560
+paper 	1338
+paper  we	1196
+retrieval 	1292
+show that	1571
+such as	1302
+that the	1325
+the user	1041
+this paper	2789
+this paper 	1287
+this paper  we	1183
+to the	2211
+we propose	1399
+with the	1046
